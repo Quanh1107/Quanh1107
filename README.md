@@ -17,4 +17,4 @@
 - Advanced data cleaning techniques and statistical modeling.
 
 ---
-📫 How to reach me: [Điền email của bạn vào đây nếu muốn]
+📫 How to reach me: qbui@stu.feitian.edu
